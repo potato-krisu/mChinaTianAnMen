@@ -1,0 +1,69 @@
+body{
+  background-color:#96DCF3;
+}
+h2{
+  color: #132062;
+}
+h4{
+  color: #132062;
+}
+p{
+  color: #132062;
+}
+.game-bg {
+  position: relative;
+  top: 0;
+  left: 0px;
+}
+.tiananmen{
+  position: absolute;
+  top: 45px;
+  left: 270px;
+}
+.cloud{
+  position: absolute;
+  top: 30px;
+  left: 90px;
+}
+.flowers{
+  position: absolute;
+  bottom:0px;
+  left:17px;
+}
+.butterflies1{
+  position: absolute;
+  bottom: 100px;
+  left: 130px;
+}
+.butterflies2{
+  position: absolute;
+  bottom: 140px;
+  left: 420px;
+}
+.duck{
+  position:absolute;
+  bottom:30px;
+  right:95px;
+}
+.tree{
+  position: absolute;
+  top: 80px;
+  right: 60px;
+}
+.sam {
+  position:absolute;
+  top: 300px;
+  right: 250px;
+  filter:contrast(130%);
+}
+.opa:hover {
+  opacity: .9;
+}
+button {
+      background-color: Transparent;
+      background-repeat:no-repeat;
+      border: none;
+      cursor:pointer;
+      overflow: hidden;
+      outline: none;
+    }
